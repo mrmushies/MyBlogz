@@ -9,6 +9,8 @@ body {
     color: red;
 }
 
+a:hover {color:orange}
+
 label {
     display: block;
     font-size: 20px;
@@ -70,3 +72,5 @@ nav ul li {
 nav #user-account {
     float: right;
 }
+
+.right {text-align: right;}
